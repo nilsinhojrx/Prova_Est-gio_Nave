@@ -1,0 +1,16 @@
+ Avisos: 
+  -> Os CPFs armazenados são todos fictícios.
+  -> Fiz usando a versão 3.9.2 do python. 
+  -> O sistema não utiliza nenhum pacote externo.
+
+--> Execução: comece eecutando o arquivo view.py. Em seguida escolha digite uma das opções a seguir:
+
+--> Visualizar dados: digite visualizar,Visualizar ou VISUALIZAR para ver todos os dados armazenados.
+
+--> Registrar: digite registrar, ou Registrar, ou REGISTRAR para adicionar um novo registro. Então, informe nome, idade e cpf. Lembrando que há algumas
+ restrições: o nome deve ter mais de 2 dígitos. O cpf deve ter exatamente 11 digitos e todos os dígitos devem ser numéricos e a idade deve estar entre 0 e 100. 
+
+--> Buscar: digite buscar, Buscar,ou BUSCAR para pesquisar um valor específico, podendo ser idade, nome ou cpf de algum cadastro. Digite exatamente como está no arquivo.
+
+ 
+ 
