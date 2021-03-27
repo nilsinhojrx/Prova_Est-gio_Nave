@@ -16,18 +16,22 @@ class PessoaDal:
     @classmethod 
     def buscar(cls, busca):
         with open('pessoas.txt', 'r') as arq:
-            
             contagem = 0
                         
             for i in arq.readlines():
-                    if busca in i.split():
-                    contagem += 1
-                    resposta = i
-                    print(resposta)
+                
+                if busca in i.split():
+                        contagem += 1
+                        resposta = i
+                        print(resposta)
                 else:
+                    continue
 
-            if contagem == 0:
+            if (contagem == 0):
                 print("Valor não encontrado. Tente novamente.")
+                        
+            
+           
                         
                 
                 
