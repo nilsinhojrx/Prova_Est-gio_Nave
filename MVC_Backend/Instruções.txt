@@ -1,4 +1,5 @@
- Avisos: 
+ Avisos:
+  -> Pode haver algum erro de identação, pois eu modifiquei o arquivo direto no github. 
   -> Os CPFs armazenados são todos fictícios.
   -> Fiz usando a versão 3.9.2 do python. 
   -> O sistema não utiliza nenhum pacote externo.
