@@ -19,7 +19,7 @@
  Também senti dificuldade em algumas queries e , mesmo com pesquisa, não consegui executar, pois o banco de dados não possuia valores e confesso que sentir dificuldades ao tentar preenchê-lo.
  
 ### Desafio Back-end
- No desafio back-end eu tive dificuldades na parte da criação da API, já que iria usar a linguagem python, e na forma de fazer consultas e cadastros no banco de dados navers. Então, resolvi pesquisar no youtube algo parecido com o desafio, assim como formas de usar python com SQL. Descobri o SQLAlchemy e até fiz alguns códigos, mas não consegui desenvolver um sistema completo como aquelas funcionaldidades.Para não deixar em branco, enviei um sistema em MVC muito interessante que cadastra e acessa dados pessoais e um arquivo texto. 
+ No desafio back-end eu tive dificuldades na parte da criação da API, já que iria usar a linguagem python, e na forma de fazer consultas e cadastros no banco de dados navers. Então, resolvi pesquisar no youtube algo parecido com o desafio, assim como formas de usar python com SQL. Descobri o SQLAlchemy e até fiz alguns códigos, mas não consegui desenvolver um sistema completo como aquelas funcionaldidades.Para não deixar em branco, enviei um sistema em MVC muito interessante que cadastra e acessa dados pessoais em um arquivo texto. 
   
  
 
