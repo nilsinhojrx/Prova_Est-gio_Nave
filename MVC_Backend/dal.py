@@ -20,12 +20,11 @@ class PessoaDal:
             contagem = 0
                         
             for i in arq.readlines():
-                if busca in i:
+                    if busca in i.split():
                     contagem += 1
                     resposta = i
                     print(resposta)
                 else:
-                    continue
 
             if contagem == 0:
                 print("Valor não encontrado. Tente novamente.")
